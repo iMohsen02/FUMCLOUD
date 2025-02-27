@@ -29,7 +29,7 @@ export const team = [
         socials: [{ social: "Telegram", link: "https://t.me/alimojahed79" }],
     },
     {
-        name: "Mobin ShariatMadari",
+        name: "Mobin Tasnimi",
         role: "Cloud Teacher Assistant",
         profile: "./prof-mobin.jpg",
         socials: [{ social: "Telegram", link: "https://t.me/knownasmobin" }],
